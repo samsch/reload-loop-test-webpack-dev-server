@@ -14,6 +14,8 @@ It seems the important trigger is the long load time simulated in `server.js`.
 
 This fails in Firefox. It doesn't seem to have any issue in Chrome.
 
+I have tested in Windows, only Linux.
+
 - OS: Xubuntu 15.10
 - Firefox: 52 x64
 
