@@ -14,19 +14,19 @@ It seems the important trigger is the long load time simulated in `server.js`.
 
 This fails in Firefox. It doesn't seem to have any issue in Chrome.
 
-OS: Xubuntu 15.10
-Firefox: 52 x64
+- OS: Xubuntu 15.10
+- Firefox: 52 x64
 
 ## Package versions
 
 This is what I have, and should be installed if using Yarn.
 
-babel-core 6.23.1
-babel-loader 6.4.0
-babel-preset-latest 6.22.0
-babel-preset-react 6.23.0
-express 4.15.2
-react 15.4.2
-react-dom 15.4.2
-webpack 2.2.1
-webpack-dev-server 2.4.1
+- babel-core 6.23.1
+- babel-loader 6.4.0
+- babel-preset-latest 6.22.0
+- babel-preset-react 6.23.0
+- express 4.15.2
+- react 15.4.2
+- react-dom 15.4.2
+- webpack 2.2.1
+- webpack-dev-server 2.4.1
