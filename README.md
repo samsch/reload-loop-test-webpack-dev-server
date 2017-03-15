@@ -1,4 +1,4 @@
-# Fixed in webpac-dev-server
+# Fixed in webpack-dev-server
 **The problem outlined in this repo has been fixed in webpack-dev-server released 2.4.2**
 
 # Reload issue in Firefox with webpack-dev-server
